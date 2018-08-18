@@ -220,6 +220,12 @@ input[type=submit] {
   [class*="col-"] {
     width: 100%;
   }
+  #masthead {
+   position: static;
+  }
+  #logo {
+    width: 100%
+  }
 }
 
 @media screen and (max-width: 768px) {
